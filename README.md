@@ -6,7 +6,7 @@
 ### <div align="center">🚀 Deliver scalable, efficient, and high-performance backend systems with DevOps support. 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Grameenphone](https://www.grameenphone.com/)  
+- 🔭 I’m currently working on [eGeneration PLC](https://www.egeneration.co)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
